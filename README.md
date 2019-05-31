@@ -1,2 +1,2 @@
-# Informatica
-Informatica Repo
+# Cricket Predictions
+Cricket Repo
