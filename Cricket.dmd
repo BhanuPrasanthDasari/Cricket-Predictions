@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Cricket" id="1F83AAB7-70AA-0367-0D1C-6682FADB88EF" version="3.5">
+<createdBy>Dasar</createdBy>
+<createdTime>2019-04-10 02:10:03 UTC</createdTime>
+<ownerDesignName>Cric</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1F83AAB7-70AA-0367-0D1C-6682FADB88EF</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="8228ABED-13F8-6FDC-C201-62894F1C50C3">
+<designStoragePath>C:\</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
